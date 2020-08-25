@@ -4,9 +4,11 @@
 	{
 		static void Main(string[] args)
 		{
-			string helloWorld = "Hello World!";
+			string helloWorld = "Hello World 2!";
 
-			System.Console.WriteLine("Hello");
+			System.Console.WriteLine(helloWorld);
+
+			System.Console.ReadLine();
 		}
 	}
 }
